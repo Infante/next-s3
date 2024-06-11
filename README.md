@@ -1,4 +1,4 @@
-# Rebuiltso/next-s3
+# rebuilt-next-s3
 
 Simplify file uploads from your Next.js app to S3 and DigitalOcean Spaces.
 
