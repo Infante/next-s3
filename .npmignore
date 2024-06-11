@@ -1,0 +1,7 @@
+node_modules
+.env
+src
+tsconfig.json
+.gitignore
+.npmignore
+package-lock.json
