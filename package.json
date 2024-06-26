@@ -1,7 +1,7 @@
 {
   "name": "rebuilt-next-s3",
   "version": "1.0.2",
-  "description": "Simplify file uploads from your Next.js app to S3 and DigitalOcean Spaces.",
+  "description": "Simplify file uploads from your Next.js app to S3.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Infante/next-s3/issues"
   },
-  "homepage": "https://github.com/Infante/next-s3.git#readme",
+  "homepage": "https://rebuilt-next-s3.vercel.app/",
   "keywords": [
     "Next.js",
     "S3",
